@@ -4,3 +4,6 @@ syntax on
 
 set number
 set relativenumber
+
+" enable percentage in status
+set ruler
